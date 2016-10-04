@@ -1,6 +1,10 @@
-Please give as many details as possible, as it will help us solve the problem more efficiently.
+Please give as many details as possible to help us solve the problem more efficiently.
 #### Configuration
 - Version of DeepDetect:
-    - [ ] Locally compiled
+    - [ ] Locally compiled on:
+        - [ ] Ubuntu 14.04 LTS
+        - [ ] Mac OSX
+        - [ ] Other:
     - [ ] Docker
+    - [ ] Amazon AMI
     - Branch:
