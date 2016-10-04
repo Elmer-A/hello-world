@@ -1,6 +1,6 @@
-At first, make sure that:
+Before creating a new issue **[ça se dit comme ça ?]**, make sure that:
 - [ ] your problem isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
-- [ ] [all prerequisite tools and dependencies](http://www.deepdetect.com/overview/installing/#build:3cef5cab5612f8cc3d40c6e13331783b) are installed.
+- [ ] [all prerequisite tools and dependencies](http://www.deepdetect.com/overview/installing/ "DeepDetect installation page") are installed.
 
 If Ok, please give as many details as possible to help us solve the problem more efficiently.
 #### Configuration
