@@ -1,7 +1,7 @@
 ###### _(A Markdown syntax reminder is available [here](https://guides.github.com/features/mastering-markdown/ "GitHub Guides - Mastering Markdown"))_
 Before creating a new issue, please make sure that:
 - [ ] your problem isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
-- [ ] [all prerequisite tools and dependencies](http://www.deepdetect.com/overview/installing/ "DeepDetect installation page") are installed.
+- [ ] [all prerequisite tools](http://www.deepdetect.com/overview/installing/ "DeepDetect installation page") and [dependencies](https://github.com/beniz/deepdetect#user-content-dependencies "DeepDetect README page on Github") are installed.
 
 If Ok, please give as many details as possible to help us solve the problem more efficiently.
 #### Configuration
@@ -14,11 +14,9 @@ If Ok, please give as many details as possible to help us solve the problem more
     - [ ] Amazon AMI
 - Branch:
 
-#### Expected behavior and actual behavior:
+#### Your question / the problem you're facing:
 
-#### Error message (if any):
-
-#### Steps to reproduce the problem:
+#### Error message (if any) / steps to reproduce the problem:
 
 #### Refers / is related to:
 - [ ] API
