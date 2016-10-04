@@ -1,4 +1,5 @@
-###### _(A Markdown syntax reminder is available [here](https://guides.github.com/features/mastering-markdown/ "GitHub Guides - Mastering Markdown"))_
+(A Markdown syntax reminder is available here: https://guides.github.com/features/mastering-markdown/)
+
 Before creating a new issue, please make sure that:
 - [ ] your problem isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
 - [ ] [all prerequisite tools](http://www.deepdetect.com/overview/installing/ "DeepDetect installation page") and [dependencies](https://github.com/beniz/deepdetect#user-content-dependencies "DeepDetect README page on Github") are installed.
