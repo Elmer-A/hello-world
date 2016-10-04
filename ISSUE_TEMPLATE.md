@@ -1,4 +1,8 @@
-Make sure your problem isn't already solved in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"). If not, please give as many details as possible to help us solve the problem more efficiently.
+At first, make sure that:
+- [ ] your problem isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
+- [ ] [all prerequisite tools and dependencies](http://www.deepdetect.com/overview/installing/#build:3cef5cab5612f8cc3d40c6e13331783b) are installed.
+
+If Ok, please give as many details as possible to help us solve the problem more efficiently.
 #### Configuration
 - Version of DeepDetect:
     - [ ] Locally compiled on:
@@ -7,10 +11,10 @@ Make sure your problem isn't already solved in the in the [FAQ page](http://www.
         - [ ] Other:
     - [ ] Docker
     - [ ] Amazon AMI
-    - Branch:
+- Branch:
 
 #### Expected behavior and actual behavior:
 
 #### Error message (if any):
 
-#### Steps to reproduce the problem.
+#### Steps to reproduce the problem:
