@@ -19,3 +19,21 @@ If Ok, please give as many details as possible to help us solve the problem more
 #### Error message (if any):
 
 #### Steps to reproduce the problem:
+
+#### refers / is related to:
+- [ ] API
+- [ ] Bug
+- [ ] Caffe
+- [ ] Compilation
+- [ ] Connectors
+- [ ] Docker
+- [ ] Documentation
+- [ ] Enhancement
+- [ ] Filesystem
+- [ ] GPU
+- [ ] Help wanted
+- [ ] Question
+- [ ] Model
+- [ ] OSX / Unsupported
+- [ ] Neural net
+- [ ] Packaging
