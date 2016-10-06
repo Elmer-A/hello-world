@@ -1,8 +1,8 @@
 (A Markdown syntax reminder is available here: https://guides.github.com/features/mastering-markdown/)
 
 Before creating a new issue, please make sure that:
-- [ ] it isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
-- [ ] your problem isn't described in a previous issue ([open](https://github.com/beniz/deepdetect/issues) or [closed](https://github.com/beniz/deepdetect/issues?q=is%3Aissue+is%3Aclosed) one),
+- [ ] the problem isn't already identified in the in the [FAQ page](http://www.deepdetect.com/overview/faq/ "DeepDetect FAQ page"),
+- [ ] your problem isn't listed in an existing issue ([open](https://github.com/beniz/deepdetect/issues) or [closed](https://github.com/beniz/deepdetect/issues?q=is%3Aissue+is%3Aclosed) one),
 - [ ] [all prerequisite tools](http://www.deepdetect.com/overview/installing/ "DeepDetect installation page") and [dependencies](https://github.com/beniz/deepdetect#user-content-dependencies "DeepDetect README page on Github") are installed.
 
 If Ok, please give as many details as possible to help us solve the problem more efficiently.
