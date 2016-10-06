@@ -19,6 +19,6 @@ If Ok, please give as many details as possible to help us solve the problem more
 #### Your question / the problem you're facing:
 
 #### Error message (if any) / steps to reproduce the problem:
-- [ ] list of API calls
+- [ ] list of API calls:
 
-- [ ] Server log output
+- [ ] Server log output:
