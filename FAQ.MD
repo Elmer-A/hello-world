@@ -45,7 +45,6 @@ This protection is useful in production systems, but can be annoying in the deve
 - if you are changing template and don’t mind recomputing the training and testing sets, simply clear up everything with:
 	curl -X DELETE "http://localhost:8080/services/yourservice?clear=full"
 - if you are changing template and don’t want to recompute the training set (e.g. useful on large image datasets), clear up the models:
-
 	curl -X DELETE "http://localhost:8080/services/yourservice?clear=lib"
 
 Getting this error: “negative supervised discrete target (e.g. wrong use of label_offset ?)”
